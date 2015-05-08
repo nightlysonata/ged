@@ -1,2 +1,0 @@
-# ged
-project for ged
