@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld", "HelloWorld\HelloWorld.vcxproj", "{72FFEF6F-E47A-410F-AF8B-57B16A3A5322}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2DArraySmoothing", "2DArraySmoothing\2DArraySmoothing.vcxproj", "{FDB99596-25B0-451D-AA09-8B52CE6664E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72FFEF6F-E47A-410F-AF8B-57B16A3A5322}.Debug|Win32.ActiveCfg = Debug|Win32
+		{72FFEF6F-E47A-410F-AF8B-57B16A3A5322}.Debug|Win32.Build.0 = Debug|Win32
+		{72FFEF6F-E47A-410F-AF8B-57B16A3A5322}.Release|Win32.ActiveCfg = Release|Win32
+		{72FFEF6F-E47A-410F-AF8B-57B16A3A5322}.Release|Win32.Build.0 = Release|Win32
+		{FDB99596-25B0-451D-AA09-8B52CE6664E8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FDB99596-25B0-451D-AA09-8B52CE6664E8}.Debug|Win32.Build.0 = Debug|Win32
+		{FDB99596-25B0-451D-AA09-8B52CE6664E8}.Release|Win32.ActiveCfg = Release|Win32
+		{FDB99596-25B0-451D-AA09-8B52CE6664E8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
